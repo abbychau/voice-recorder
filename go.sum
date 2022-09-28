@@ -1,0 +1,4 @@
+github.com/gordonklaus/portaudio v0.0.0-20220320131553-cc649ad523c1 h1:FgUJ91JoMbS5qWXdIpnHta1hLtw1X8n2ek5JRED3R1I=
+github.com/gordonklaus/portaudio v0.0.0-20220320131553-cc649ad523c1/go.mod h1:HfYnZi/ARQKG0dwH5HNDmPCHdLiFiBf+SI7DbhW7et4=
+github.com/tj/go-spin v1.1.0 h1:lhdWZsvImxvZ3q1C5OIB7d72DuOwP4O2NdBg9PyzNds=
+github.com/tj/go-spin v1.1.0/go.mod h1:Mg1mzmePZm4dva8Qz60H2lHwmJ2loum4VIrLgVnKwh4=
