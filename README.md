@@ -8,4 +8,4 @@ Copy `voice-recorder` to your path.
 
 # Screenshots
 
-![screenshot](https://user-images.githubusercontent.com/350283/192733392-c88c8b14-c5ac-47e9-a50f-1592ffc8a4ab.png)
+![screenshot](https://user-images.githubusercontent.com/350283/192734644-f9e49825-3de9-4dff-851c-64f0f19b73aa.png)
