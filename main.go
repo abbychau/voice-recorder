@@ -17,9 +17,11 @@ func main() {
 	if len(os.Args) < 2 {
 		now := time.Now()
 
-		fileName = fmt.Sprintf("%d-%02d-%02d_%02d:%02d:%02d.aiff", now.Year(), now.Month(), now.Day(), now.Hour(), now.Minute(), now.Second())
+		fileName = fmt.Sprintf("%d-%02d-%02d_%02d:%02d:%02d", now.Year(), now.Month(), now.Day(), now.Hour(), now.Minute(), now.Second())
 
-		fmt.Println("Using " + fileName + " as file name." + "(To specify file name, use arg1)")
+		fmt.Println("Using " + fileName + ".mp3 as file name." + "(To specify file name, use arg1)")
+
+		fileName += ".aiff"
 	} else {
 		fileName = os.Args[1]
 	}
